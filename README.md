@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @GokulKris02
-- 👀 I’m interested in Cyber Security Domain.
-- 💞️ I’m looking yo collaborate on web development
+- 👋 Hi, I’m Gokul Krishna 👀 I’m 18yrs Old Self Taught Developer
+- 💞️ I'm Currently Pursuing B.Sc (Cyber Security and Digital forensics)
 - 📫 Reach me on telegram @gokul2x
