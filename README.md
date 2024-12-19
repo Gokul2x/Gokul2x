@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a strong passi
 - **Version Control**: Git and GitHub for collaborative and personal projects.
 
 🌐 Portfolio
-Check out my portfolio at [gokul2x.me](https://gokul2x.me) to explore my projects and experiences in detail.
+- Check out my portfolio at [gokul2x.me](https://gokul2x.me) to explore my projects and experiences in detail.
 
 📚 Current Learning
 - Enhancing skills in red teaming and cybersecurity fundamentals.
