@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a cybersecurity enthusiast with a strong passi
 
 📫 How to Reach Me
 - **Email**: [contact@gokul2x.me](mailto:contact@gokul2x.me)
-- **LinkedIn**: [linkedin.com/in/gokulx2](https://www.linkedin.com/in/gokul2x)
+- **LinkedIn**: [linkedin.com/in/gokul2x](https://www.linkedin.com/in/gokul2x)
 - **Instagram**: [@gokul2x](https://instagram.com/gokul2x)
 
 🌟 Highlights
